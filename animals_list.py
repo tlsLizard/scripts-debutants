@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 """
@@ -34,6 +33,7 @@ print("The number of animals in the list is:", len(animals))
 
 # Let's display the first animal in the list
 print("The first animal in the list is:", animals[0])
+
 
 # Print a message
 print("End of the program...")
